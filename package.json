@@ -1,0 +1,24 @@
+{
+    "name": "@lets/publish",
+    "version": "0.0.8",
+    "description": "🛵 Publish only if this version was not already published",
+    "keywords": [
+      "publish",
+      "conditional",
+      "🛵"
+    ],
+    "author": "omrilotan",
+    "license": "UNLICENSE",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/omrilotan/lets-publish.git"
+    },
+    "homepage": "https://omrilotan.com/lets-publish/",
+    "bin": "script.sh",
+    "files": [
+      "script.sh"
+    ],
+    "scripts": {
+      "start": "./script.sh"
+    }
+}
